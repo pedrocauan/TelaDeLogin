@@ -1,18 +1,37 @@
-## Getting Started
+# Tela de login simples feita em java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Requisitos
+### Necessário ter a JDK instalada em seu computador, é recomendado a versão mais recente para uma boa compatibilidade
 
-## Folder Structure
+# Como usar ?
 
-The workspace contains two folders by default, where:
+# Windows
+### 1 - Faça o download do repositório no github ou clone com o seguinte comando: 
+#### git clone https://github.com/pedrocauan/TelaDeLogin.git
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### 2 - Vá até o lugar que baixou o repositorio, clique com o botão direito e selecione para abrir CMD windows.
+###     voce também pode ABRIR COM O VISUAL STUDIO CODE NA PASTA QUE BAIXOU e usar o terminal dele para executar o programa.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+### 3-  Entre dentro da pasta src com o seguinte comando:
+####    cd src
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+### 4-  Compile o arquivo .java em um bytecode para poder executar
+####    javac TelaDeLogin.java
 
-## Dependency Management
+### 4-  Será gerado um arquivo .class que na pasta src, para executar ele digite o seguinte comando:
+####    java TelaDeLogin
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+# Linux
+### 1 - abra um terminal e clone o repositorio com o seguinte comando: 
+####    git clone https://github.com/pedrocauan/TelaDeLogin.git
+###     1.1 caso não consiga, tente executar como sudo e digitar sua senha
+####    sudo git clone https://github.com/pedrocauan/TelaDeLogin.git
+
+### 2 - Entre dentro da pasta src
+####    cd TelaDeLogin/src
+
+### 4-  Compile o arquivo .java em um bytecode para poder executar
+####    javac TelaDeLogin.java
+
+### 4-  Será gerado um arquivo .class que na pasta src, para executar ele digite o seguinte comando:
+####    java TelaDeLogin

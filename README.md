@@ -33,5 +33,5 @@
 ##### 4 -  Compile o arquivo .java em um bytecode para poder executar
 ##    javac TelaDeLogin.java
 
-#### 5 -  Será gerado um arquivo .class que na pasta src, para executar ele digite o seguinte comando:
+#### 5 -  Será gerado um arquivo .class na pasta src, para executar ele digite o seguinte comando:
 ##    java TelaDeLogin
